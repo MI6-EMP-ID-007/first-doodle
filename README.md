@@ -1,0 +1,2 @@
+# first-doodle
+Core functionality
